@@ -198,5 +198,4 @@ GNU General Public License v2.0
 - **Ishrat Jaben Bushra** – Master’s Student, Data Science and Analytics, Toronto Metropolitan University
 - **Co-Author**: Aarthi Saravanan (Master’s Student, Data Science and Analytics, Toronto Metropolitan University)
 
-Feel free to ⭐ the repo if you found it helpful!
 
