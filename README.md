@@ -2,7 +2,15 @@
 
 ## 📌 Project Overview
 
-This project implements a Visual Question Answering (VQA) system that combines multi-modal features — scene understanding, object detection, question embedding, and captioning — to answer natural language questions about images using deep learning techniques.
+This project implements a Visual Question Answering (VQA) system that combines multi-modal features—scene understanding, object detection, question embedding, and captioning—to answer natural language questions about images using deep learning techniques. Built on the VQA v1 Abstract Scenes Multiple-Choice Dataset.
+
+-**Scope**
+
+ - **Visual Understanding:** The model should accurately extract features from abstract scene images.
+  
+ - **Question Understanding:** The model must interpret multiple-choice questions in natural language.
+  
+ - **Answer Selection** The model should select the most appropriate answer from a set of multiple-choice options.
 
 ---
 
