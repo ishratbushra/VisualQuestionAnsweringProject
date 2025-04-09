@@ -1,4 +1,4 @@
-# VQA Project: Multi-Modal Visual Question Answering System
+# VQA Project: Multi-Modal(Scene and Object-Aware, Caption-Guided) Visual Question Answering System
 
 ## 📌 Project Overview
 
